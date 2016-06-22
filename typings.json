@@ -5,6 +5,7 @@
     "angular-protractor": "registry:dt/angular-protractor#1.5.0+20160425143459",
     "browser-sync": "registry:dt/browser-sync#0.0.0+20160524142403",
     "chokidar": "registry:dt/chokidar#1.4.3+20160316155526",
+    "es6-collections": "registry:dt/es6-collections#0.5.1+20160316155526",
     "express": "registry:dt/express#4.0.0+20160317120654",
     "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160617060422",
     "glob-stream": "registry:dt/glob-stream#3.1.12+20160316155526",
