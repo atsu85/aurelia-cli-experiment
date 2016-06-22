@@ -18,6 +18,7 @@
     "vinyl-fs": "registry:dt/vinyl-fs#0.0.0+20160317120654"
   },
   "devDependencies": {
+    "bluebird": "registry:npm/bluebird#3.3.4+20160622205516",
     "gulp": "registry:npm/gulp#4.0.0-alpha.2+20160618213436"
   }
 }
