@@ -6,5 +6,6 @@
 /// <reference path="globals/jasmine/index.d.ts" />
 /// <reference path="globals/node/index.d.ts" />
 /// <reference path="globals/selenium-webdriver/index.d.ts" />
+/// <reference path="globals/undertaker/index.d.ts" />
 /// <reference path="globals/vinyl-fs/index.d.ts" />
 /// <reference path="modules/gulp/index.d.ts" />
