@@ -7,6 +7,7 @@
     "chokidar": "registry:dt/chokidar#1.4.3+20160316155526",
     "gulp-plumber": "registry:dt/gulp-plumber#0.0.0+20160316155526",
     "gulp-rename": "registry:dt/gulp-rename#0.0.0+20160316155526",
+    "gulp-sass": "registry:dt/gulp-sass#0.0.0+20160316155526",
     "gulp-sourcemaps": "registry:dt/gulp-sourcemaps#0.0.0+20160316155526",
     "jasmine": "registry:dt/jasmine#2.2.0+20160505161446",
     "karma": "registry:dt/karma#0.13.9+20160501125529",

@@ -3,6 +3,7 @@
 /// <reference path="globals/chokidar/index.d.ts" />
 /// <reference path="globals/gulp-plumber/index.d.ts" />
 /// <reference path="globals/gulp-rename/index.d.ts" />
+/// <reference path="globals/gulp-sass/index.d.ts" />
 /// <reference path="globals/gulp-sourcemaps/index.d.ts" />
 /// <reference path="globals/jasmine/index.d.ts" />
 /// <reference path="globals/karma/index.d.ts" />
