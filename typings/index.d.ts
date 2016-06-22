@@ -11,6 +11,7 @@
 /// <reference path="globals/log4js/index.d.ts" />
 /// <reference path="globals/micromatch/index.d.ts" />
 /// <reference path="globals/node/index.d.ts" />
+/// <reference path="globals/parse-glob/index.d.ts" />
 /// <reference path="globals/selenium-webdriver/index.d.ts" />
 /// <reference path="globals/undertaker/index.d.ts" />
 /// <reference path="globals/vinyl-fs/index.d.ts" />
