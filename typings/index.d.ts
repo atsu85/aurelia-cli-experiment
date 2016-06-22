@@ -1,6 +1,7 @@
 /// <reference path="globals/angular-protractor/index.d.ts" />
 /// <reference path="globals/browser-sync/index.d.ts" />
 /// <reference path="globals/chokidar/index.d.ts" />
+/// <reference path="globals/express-serve-static-core/index.d.ts" />
 /// <reference path="globals/express/index.d.ts" />
 /// <reference path="globals/gulp-plumber/index.d.ts" />
 /// <reference path="globals/gulp-rename/index.d.ts" />
