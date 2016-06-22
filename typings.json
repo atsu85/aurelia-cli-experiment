@@ -20,6 +20,7 @@
     "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654",
     "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
     "undertaker": "registry:dt/undertaker#0.12.0+20160316155526",
+    "vinyl": "registry:dt/vinyl#1.1.0+20160316155526",
     "vinyl-fs": "registry:dt/vinyl-fs#0.0.0+20160317120654"
   },
   "devDependencies": {
