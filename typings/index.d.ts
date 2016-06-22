@@ -7,6 +7,7 @@
 /// <reference path="globals/gulp-sourcemaps/index.d.ts" />
 /// <reference path="globals/jasmine/index.d.ts" />
 /// <reference path="globals/karma/index.d.ts" />
+/// <reference path="globals/micromatch/index.d.ts" />
 /// <reference path="globals/node/index.d.ts" />
 /// <reference path="globals/selenium-webdriver/index.d.ts" />
 /// <reference path="globals/undertaker/index.d.ts" />
