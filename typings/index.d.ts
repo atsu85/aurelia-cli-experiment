@@ -20,5 +20,6 @@
 /// <reference path="globals/vinyl-fs/index.d.ts" />
 /// <reference path="globals/vinyl/index.d.ts" />
 /// <reference path="modules/bluebird/index.d.ts" />
+/// <reference path="modules/glob/index.d.ts" />
 /// <reference path="modules/gulp/index.d.ts" />
 /// <reference path="modules/mime/index.d.ts" />
