@@ -3,8 +3,32 @@
   "dependencies": {},
   "globalDevDependencies": {
     "angular-protractor": "registry:dt/angular-protractor#1.5.0+20160425143459",
+    "browser-sync": "registry:dt/browser-sync#0.0.0+20160524142403",
+    "chokidar": "registry:dt/chokidar#1.4.3+20160316155526",
+    "es6-collections": "registry:dt/es6-collections#0.5.1+20160316155526",
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160617060422",
+    "glob-stream": "registry:dt/glob-stream#3.1.12+20160316155526",
+    "gulp-plumber": "registry:dt/gulp-plumber#0.0.0+20160316155526",
+    "gulp-rename": "registry:dt/gulp-rename#0.0.0+20160316155526",
+    "gulp-sass": "registry:dt/gulp-sass#0.0.0+20160316155526",
+    "gulp-sourcemaps": "registry:dt/gulp-sourcemaps#0.0.0+20160316155526",
     "jasmine": "registry:dt/jasmine#2.2.0+20160505161446",
+    "karma": "registry:dt/karma#0.13.9+20160501125529",
+    "log4js": "registry:dt/log4js#0.0.0+20160608042355",
+    "micromatch": "registry:dt/micromatch#2.3.7+20160123140905",
+    "node": "registry:dt/node",
+    "parse-glob": "registry:dt/parse-glob#3.0.4+20160110125512",
     "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654",
-    "node": "registry:dt/node"
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
+    "undertaker": "registry:dt/undertaker#0.12.0+20160316155526",
+    "vinyl": "registry:dt/vinyl#1.1.0+20160316155526",
+    "vinyl-fs": "registry:dt/vinyl-fs#0.0.0+20160317120654"
+  },
+  "devDependencies": {
+    "bluebird": "registry:npm/bluebird#3.3.4+20160622205516",
+    "glob": "registry:npm/glob#6.0.0+20160211003958",
+    "gulp": "registry:npm/gulp#4.0.0-alpha.2+20160618213436",
+    "mime": "registry:npm/mime#1.3.0+20160423043021"
   }
 }
