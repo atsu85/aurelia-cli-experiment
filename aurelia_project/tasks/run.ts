@@ -1,6 +1,6 @@
 import * as gulp from 'gulp';
 import * as browserSync from 'browser-sync';
-import * as project from '../aurelia.json';
+var project = require('../aurelia.json');
 import build from './build';
 import {CLIOptions} from 'aurelia-cli';
 

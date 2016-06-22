@@ -5,7 +5,7 @@ import * as sourcemaps from 'gulp-sourcemaps';
 import * as notify from 'gulp-notify';
 import * as rename from 'gulp-rename';
 import * as ts from 'gulp-typescript';
-import * as project from '../aurelia.json';
+var project = require('../aurelia.json');
 import {CLIOptions, build} from 'aurelia-cli';
 
 function configureEnvironment() {
