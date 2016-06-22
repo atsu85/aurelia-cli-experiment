@@ -1,0 +1,48 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "sourceMap": false,
+    "outDir": ".build.bak",
+    "target": "es5",
+    "module": "amd",
+    "declaration": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node"
+  },
+  "exclude": [],
+  "filesGlob": [
+    "./**/*.ts",
+    "../typings/index.d.ts",
+    "../typings/modules/**/*.d.ts",
+    "../custom_typings/**/*.d.ts"
+  ],
+  "files": [
+    "./environments/dev.ts",
+    "./environments/prod.ts",
+    "./environments/stage.ts",
+    "./generators/attribute.ts",
+    "./generators/binding-behavior.ts",
+    "./generators/element.ts",
+    "./generators/generator.ts",
+    "./generators/task.ts",
+    "./generators/value-converter.ts",
+    "./tasks/build.ts",
+    "./tasks/process-css.ts",
+    "./tasks/process-markup.ts",
+    "./tasks/run.ts",
+    "./tasks/test.ts",
+    "./tasks/transpile.ts",
+    "../typings/index.d.ts",
+    "../typings/modules/bluebird/index.d.ts",
+    "../typings/modules/glob/index.d.ts",
+    "../typings/modules/gulp/index.d.ts",
+    "../typings/modules/mime/index.d.ts",
+    "../custom_typings/aurelia-protractor.d.ts"
+  ],
+  "atom": {
+    "rewriteTsconfig": true
+  }
+}
