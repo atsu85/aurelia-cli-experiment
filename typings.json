@@ -17,6 +17,7 @@
     "node": "registry:dt/node",
     "parse-glob": "registry:dt/parse-glob#3.0.4+20160110125512",
     "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
     "undertaker": "registry:dt/undertaker#0.12.0+20160316155526",
     "vinyl-fs": "registry:dt/vinyl-fs#0.0.0+20160317120654"
   },
