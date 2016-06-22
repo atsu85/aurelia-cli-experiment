@@ -8,7 +8,8 @@
     "gulp-sourcemaps": "registry:dt/gulp-sourcemaps#0.0.0+20160316155526",
     "jasmine": "registry:dt/jasmine#2.2.0+20160505161446",
     "node": "registry:dt/node",
-    "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654"
+    "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654",
+    "vinyl-fs": "registry:dt/vinyl-fs#0.0.0+20160317120654"
   },
   "devDependencies": {
     "gulp": "registry:npm/gulp#4.0.0-alpha.2+20160618213436"
